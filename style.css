@@ -10,6 +10,6 @@ a:hover {
     color: rgb(255, 71, 200);
 }
 
-a:active {
+.a:active {
     color: black;
 }
