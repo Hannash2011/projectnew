@@ -5,3 +5,7 @@ h1 {
 p:hover {
     color: rgb(151, 71, 255);
 }
+
+a:hover {
+    color: rgb(255, 71, 200);
+}
