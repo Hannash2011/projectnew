@@ -40,3 +40,7 @@ a:active {
 .meetme {
     text-align: center;
 }
+
+.meetme-list {
+    text-align: auto;
+}
