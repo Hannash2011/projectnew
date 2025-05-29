@@ -13,3 +13,16 @@ a:hover {
 a:active {
     color: black;
 }
+
+.container {
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px;
+    text-align: center;
+}
+
+.img {
+    max-width: 200%;
+    height: auto;
+    border-radius: 5px;
+}
