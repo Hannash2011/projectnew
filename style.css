@@ -28,11 +28,15 @@ a:active {
 }
 
 .button {
-    height: 30px;
-    width: 30px;
+    height: 100px;
+    width: 100px;
     color: blueviolet;
 }
 
 .button:active {
     color: black;
+}
+
+.meetme {
+    text-align: center;
 }
