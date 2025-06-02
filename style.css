@@ -1,46 +1,33 @@
-h1 {
-    color: rgb(255, 0, 0);
-}
-
-p:hover {
-    color: rgb(151, 71, 255);
-}
-
-a:hover {
-    color: rgb(255, 71, 200);
-}
-
-a:active {
-    color: black;
-}
-
-.container {
+body {
+    font-family: "Poppins", sans-serif;
+    color: #28aaca;
+    font-size: 14px;
+    background-color: #1e5c0f;
     margin: 0 auto;
-    max-width: 800px;
-    padding: 20px;
-    text-align: center;
 }
 
-.img {
-    max-width: 50%;
+
+h1 {
+    font-family: "Oswald",
+        sans-serif;
+    color: rgb(92, 5, 56);
+}
+
+text {
+    display: flex;
+    align-items: center;
+}
+
+img {
     border-radius: 5px;
-    height: 50px;
 }
 
-.button {
-    height: 1cm;
-    width: 5cm;
-    color: blueviolet;
+newfooter {
+    display: flex;
+    align-items: center;
+    color: #cec10c;
 }
 
-.button:active {
-    color: black;
-}
-
-.meetme {
-    text-align: center;
-}
-
-.meetme-list {
-    text-align: auto;
+.meetme-list-link:hover {
+    color: red;
 }
