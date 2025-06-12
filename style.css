@@ -22,12 +22,12 @@ img {
     border-radius: 5px;
 }
 
-newfooter {
+.newfooter {
     display: flex;
     align-items: center;
     color: #cec10c;
 }
 
-.meetme-list-link:hover {
+meetme-list-link :hover {
     color: red;
 }
