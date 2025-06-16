@@ -13,9 +13,16 @@ title-header {
 
 ul-header {
     display: flex;
-    align-items: left;
+    align-items: last baseline;
 }
 
+spennende {
+    color: #cec10c;
+}
+
+spennende-li :hover {
+    color: rgb(16, 230, 230);
+}
 
 h1 {
     font-family: "Oswald",
