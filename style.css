@@ -6,7 +6,7 @@ body {
     margin: 0 auto;
 }
 
-img-first {
+.img-first {
     height: auto;
     width: 30%;
     max-width: 200px;
@@ -24,7 +24,7 @@ ul-header {
     align-items: last baseline;
 }
 
-spennende {
+.spennende {
     display: flex;
 }
 
