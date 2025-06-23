@@ -28,9 +28,6 @@ spennende {
     display: flex;
 }
 
-spennen-li :hover {
-    color: rgb(16, 230, 230);
-}
 
 h1 {
     font-family: "Oswald",
@@ -51,6 +48,10 @@ img {
     display: flex;
     align-items: center;
     color: #cec10c;
+}
+
+.spennen-li:hover {
+    color: rgb(16, 230, 230);
 }
 
 meetme-list-link :hover {
