@@ -6,6 +6,12 @@ body {
     margin: 0 auto;
 }
 
+img-first {
+    height: auto;
+    width: 30%;
+    max-width: 200px;
+}
+
 title-header {
 
     color: #dae910;
