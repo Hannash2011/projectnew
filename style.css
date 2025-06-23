@@ -25,10 +25,10 @@ ul-header {
 }
 
 spennende {
-    color: #cec10c;
+    display: flex;
 }
 
-spennende-li :hover {
+spennen-li :hover {
     color: rgb(16, 230, 230);
 }
 
