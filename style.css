@@ -23,7 +23,9 @@ ul-header {
     display: flex;
     align-items: last baseline;
 }
-
+ p{
+    color: rgb(16, 230, 230)
+ }
 .spennende {
     display: flex;
 }
@@ -59,4 +61,8 @@ img {
 
 meetme-list-link :hover {
     color: red;
+}
+
+.tittle {
+color: rgb(12, 250, 250);
 }
