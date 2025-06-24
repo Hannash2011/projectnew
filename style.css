@@ -1,9 +1,8 @@
 body {
-    font-family: "Poppins", sans-serif;
-    color: #28aaca;
-    font-size: 14px;
-    background-color: #3f1822;
-    margin: 0 auto;
+    background-image: url ( https://img.goodfon.ru/original/1366x768/9/1f/space-art-kosmos-zvezdy.jpg)
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .img-first {
