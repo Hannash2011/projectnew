@@ -13,9 +13,9 @@ body {
 }
 
 title-header {
-  position: center;
+
     color: #dae910;
-    display: flex;
+    margin: 0 auto;
     align-items: center;
 }
 
