@@ -18,5 +18,11 @@ header {
     position: absolut;
     margin-top: 0;
     margin-left: 0;
-    text-decorator: non;
+    text-decoration: none;
+}
+.menu-hovud {
+    text-decoration: none;
+}
+.logo-img {
+    text-decoration: none;
 }
