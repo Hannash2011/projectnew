@@ -10,7 +10,7 @@ body {
 header {
     display: flex;
     margin: 10px 5px 10px 5px;
-    jastify-content: space-between;
+    justify-content: space-between;
     align-items: center;
 
 }
