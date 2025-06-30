@@ -1,5 +1,5 @@
 body {
-    background-image: url("images/img.goodfon.ru.jpeg");
+    background-color: rgb(230, 156, 168);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -16,6 +16,7 @@ header {
 }
 
 .main-menu {
+
     display: flex;
     justify-content: space-between;
     text-align: center;
