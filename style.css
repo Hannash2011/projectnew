@@ -16,15 +16,13 @@ header {
 }
 
 nav {
-    display: flex;
+
     list-style: 0;
-    justify-content: space-between;
     text-align: center;
-    gap: 30px;
     text-decoration: none;
 }
 
-.main-menu {
+.main-menu ul {
     display: flex;
     list-style: 0;
     justify-content: space-between;
