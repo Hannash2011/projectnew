@@ -63,6 +63,6 @@ nav {
     rgba (0, 0, 0, 0.2) box-shadow: 0 0 5px;
 }
 
-.main-manu ul:hover .submenu {
+.main-manu li:hover .submenu {
     display: block;
 }
