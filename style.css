@@ -7,47 +7,9 @@ body {
     min-height: 100vh;
 }
 
-header {
-    display: flex;
-    margin: 10px 5px 10px 5px;
-    justify-content: space-between;
-    align-items: center;
-
-}
-
-nav {
-
-    list-style: 0;
-    text-align: center;
-    text-decoration: none;
-}
-
-.main-menu ul {
-
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-
 .main-menu>ul {
     display: flex;
     gap: 20px;
-}
-
-.logo {
-    position: absolut;
-    margin-top: 0;
-    margin-left: 0;
-    text-decoration: none;
-}
-
-.menu-hovud {
-
-    text-decoration: none;
-}
-
-.logo-img {
-    text-decoration: none;
 }
 
 .main-menu li {
@@ -57,12 +19,12 @@ nav {
 .main-menu .submenu {
     display: none;
     position: absolute;
-    background-color: blueviolet;
-    margin-top: 5px;
-    padding: 10px;
-    rgba (0, 0, 0, 0.2) box-shadow: 0 0 5px;
+    background-color: black;
+    padding: 5px;
+    margin: 10px;
+    box-shadow: 0 0 5px;
 }
 
-.main-manu li:hover .submenu {
+.main-menu li:hover .submenu {
     display: block;
 }
