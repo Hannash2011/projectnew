@@ -23,6 +23,11 @@ header {
     position: relative;
 }
 
+.main-menu li:hover .submenu {
+    display: block;
+}
+
+
 .main-menu .submenu {
     display: none;
     position: absolute;
@@ -34,8 +39,4 @@ header {
     border: 1px solid #ccc;
     box-shadow: 0 0 5px;
     z-index: 100;
-}
-
-.main-menu li:hover .submenu {
-    display: block;
 }
