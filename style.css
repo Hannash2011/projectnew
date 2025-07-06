@@ -36,6 +36,6 @@ header {
     z-index: 100;
 }
 
-header .main-menu li:hover .submenu {
+.main-menu li:hover>.submenu .main-menu li .submenu:hover {
     display: block;
 }
