@@ -7,6 +7,12 @@ body {
     min-height: 100vh;
 }
 
+header {
+    display: flex;
+    align-self: center;
+    justify-content: space-between;
+}
+
 .main-menu>ul {
     display: flex;
     gap: 20px;
@@ -21,9 +27,13 @@ body {
     display: none;
     position: absolute;
     background-color: black;
-    padding: 5px;
-    margin: 10px;
+    top: 100%;
+    left: 0;
+    padding: 0;
+    margin: 0;
+    border: 1px solid #ccc;
     box-shadow: 0 0 5px;
+    z-index: 100;
 }
 
 .main-menu li:hover>.submenu .main-menu li .submenu:hover {
